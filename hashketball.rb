@@ -78,16 +78,16 @@ def game_hash
       :colors => ["Turquoise", "Purple"],
       :players => {
         :player1 => {
-          :name => "Allen Iverson",
-          :number => 0,
-          :shoe => 16,
+          :name => "Jeff Aldrien",
+          :number => 4,
+          :shoe => 18,
           :stats => {
-            :points => 22,
-            :rebounds => 12,
-            :assists => 12,
-            :steals => 3,
-            :blocks => 1,
-            :slam_dunks => 1,
+            :points => 10,
+            :rebounds => 1,
+            :assists => 1,
+            :steals => 2,
+            :blocks => 7,
+            :slam_dunks => 2,
           },
         :player_2 => {
           :name => "Reggie Evans",
