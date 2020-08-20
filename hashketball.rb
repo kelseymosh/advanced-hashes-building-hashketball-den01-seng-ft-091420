@@ -1,4 +1,4 @@
-def game_hash(game_data_)
+def game_hash(game_data)
   game_data = {
     :home => {
       :team_name => ["Brooklyn Nets"]
