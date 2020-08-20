@@ -67,8 +67,8 @@ def game_hash(game_data)
             :slam_dunks => 1,
                   }
                 }
-              } 
-            } 
+              }
+            }
           }
         }
       }
