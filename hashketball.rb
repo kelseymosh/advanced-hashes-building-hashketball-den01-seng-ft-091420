@@ -28,7 +28,7 @@ def game_hash(game_data)
             :blocks => 12,
             :slam_dunks => 7
         }
-        
+
         }
       }
     }
