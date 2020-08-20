@@ -1,3 +1,5 @@
+require 'pry'
+
 def game_hash(game_data)
   game_data = {
     :home => {
@@ -27,7 +29,8 @@ def game_hash(game_data)
             :steals => 12,
             :blocks => 12,
             :slam_dunks => 7
-        }
+        },
+        
 
         }
       }
