@@ -100,6 +100,42 @@ def game_hash
               :steals => 22,
               :blocks => 15,
               :slam_dunks => 10,
+          },
+          :player_3 => {
+            :name => "DeSagna Diop",
+            :number => 2,
+            :shoe => 14,
+            :stats => {
+              :points => 24,
+              :rebounds => 12,
+              :assists => 12,
+              :steals => 4,
+              :blocks => 5,
+              :slam_dunks => 5,
+          },
+          :player_4 => {
+            :name => "Ben Gordon",
+            :number => 8,
+            :shoe => 15,
+            :stats => {
+              :points => 33,
+              :rebounds => 3,
+              :assists => 2,
+              :steals => 1,
+              :blocks => 1,
+              :slam_dunks => 0,
+          },
+          :player_5 => {
+            :name => "Kemba Walker",
+            :number => 33,
+            :shoe => 15,
+            :stats => {
+              :points => 6,
+              :rebounds => 12,
+              :assists => 12,
+              :steals => 7,
+              :blocks => 5,
+              :slam_dunks => 12,
           }
         }
       }
