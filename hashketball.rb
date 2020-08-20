@@ -16,7 +16,7 @@ def game_hash(game_data)
             :assists => 12,
             :steals => 3,
             :blocks => 1,
-            :slam_dunks => 1
+            :slam_dunks => 1,
           },
         :player_2 => {
           :name => "Reggie Evans",
@@ -28,7 +28,7 @@ def game_hash(game_data)
             :assists => 12,
             :steals => 12,
             :blocks => 12,
-            :slam_dunks => 7
+            :slam_dunks => 7,
         },
         :player_3 => {
           :name => "Brook Lopez",
@@ -40,7 +40,7 @@ def game_hash(game_data)
             :assists => 10,
             :steals => 3,
             :blocks => 1,
-            :slam_dunks => 15
+            :slam_dunks => 15,
         },
         :player_4 => {
           :name => "Mason Plumlee",
@@ -52,7 +52,7 @@ def game_hash(game_data)
             :assists => 6,
             :steals => 3,
             :blocks => 8,
-            :slam_dunks => 5
+            :slam_dunks => 5,
         },
         :player_5 => {
           :name => "Jason Terry",
@@ -64,7 +64,7 @@ def game_hash(game_data)
             :assists => 2,
             :steals => 4,
             :blocks => 11,
-            :slam_dunks => 1
+            :slam_dunks => 1,
           }
         }
       }
